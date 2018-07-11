@@ -1,0 +1,3 @@
+[submodule "string_builder"]
+	path = string_builder
+	url = git@github.com:mofonc/string_builder.git
